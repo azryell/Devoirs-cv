@@ -53,3 +53,8 @@ a{
 .container__side ul,p{
     color: white;
 }
+.footer__lastupdate{
+    color: white;
+    font-family: 'Raleway',sans-serif;
+    font-weight: 400;
+}
